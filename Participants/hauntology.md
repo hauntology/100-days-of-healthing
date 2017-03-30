@@ -27,5 +27,5 @@ Remember: this is public, so **don't put yourself at risk**. Don't include anyth
 - made this fork and started this challende
 **Link to fork**
 
-[My Repo](https://github.com/hauntology/100-days-of-healthing)
+[My Fork](https://github.com/hauntology/100-days-of-healthing)
 
